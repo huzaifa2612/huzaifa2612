@@ -1,16 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22d3ee&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20AI%20Engineer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22d3ee&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BSCS%20Student%20%7C%20Aspiring%20Backend%20%26%20AI%20Engineer&descAlignY=55&descSize=18" />
 
-### Building practical software while developing my skills in Python, backend development, and AI Engineering
+### Building practical Python and C++ projects while developing expertise in Backend Development and AI Engineering.
 
 ![Open to Internship](https://img.shields.io/badge/Open%20to%20Internship-0ea5e9?style=for-the-badge&logo=github&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifa2612)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-55a666308/)
 [![Email](https://img.shields.io/badge/Email-Contact-22d3ee?style=for-the-badge&logo=gmail&logoColor=black)](mailto:mhuzaifasarfraz251@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=huzaifa2612&color=0ea5e9&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/huzaifa2612?label=Followers&style=flat-square&color=0ea5e9)
 
 </div>
 
