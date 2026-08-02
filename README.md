@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22d3ee&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BSCS%20Student%20%7C%20Aspiring%20Backend%20%26%20AI%20Engineer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22d3ee&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BSCS%20Student%20%7C%20Aspiring%20Backend%20and%20AI%20Engineer&descAlignY=55&descSize=18" />
 
 ### Building practical Python and C++ projects while developing expertise in Backend Development and AI Engineering.
 
