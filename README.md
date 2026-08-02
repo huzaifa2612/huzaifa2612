@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" />
 
 <a href="https://github.com/huzaifa2612">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student+%7C+AI+Engineer;C%2B%2B+%7C+Python+%7C+MySQL;Building+with+ChatGPT%2C+Claude+%26+Gemini;Exploring+Prompt+Engineering+%26+Generative+AI" alt="Typing SVG" />
@@ -46,7 +46,7 @@ const muhammadHuzaifa = {
 > A console-based Human Resource and Payroll Management System developed in C++ showcasing core OOP concepts, file handling, and exception management.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa2612&repo=HR-Management-System-CPP&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa2612&repo=HR-Management-System-CPP&theme=nord&cache_seconds=86400&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" />
 </div>
 
 | Layer | Technology |
@@ -63,7 +63,7 @@ const muhammadHuzaifa = {
 > A console-based Personal Expense Tracker developed in C++ using file handling to efficiently add, view, and calculate daily expenses.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa2612&repo=Expense-Tracker-CPP&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa2612&repo=Expense-Tracker-CPP&theme=nord&cache_seconds=86400&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" />
 </div>
 
 | Layer | Technology |
@@ -95,8 +95,8 @@ const muhammadHuzaifa = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa2612&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa2612&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa2612&show_icons=true&theme=nord&cache_seconds=86400&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa2612&layout=compact&theme=nord&cache_seconds=86400&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" />
 
 <br/>
 
@@ -125,4 +125,4 @@ const muhammadHuzaifa = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" />
