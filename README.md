@@ -122,7 +122,7 @@ Internships & fresher Software Engineering roles
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=CareerTrack&theme=nord&cache_seconds=86400&bg_color=0f172a&border_color=0ea5e9&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=CareerTrack&theme=nord&cache_seconds=1800&bg_color=0f172a&border_color=0ea5e9&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee" width="100%"/>
 
 *A Python CLI application for tracking job applications and matching resume skills with job descriptions.*
 
@@ -135,7 +135,7 @@ Internships & fresher Software Engineering roles
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=HR-Management-System-CPP&theme=nord&cache_seconds=86400&bg_color=0f172a&border_color=0ea5e9&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=HR-Management-System-CPP&theme=nord&cache_seconds=1800&bg_color=0f172a&border_color=0ea5e9&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee" width="100%"/>
 
 *A console-based HR & Payroll Management System in C++ — employee records, payroll processing, and exception-safe file storage.*
 
@@ -151,7 +151,7 @@ Internships & fresher Software Engineering roles
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=Expense-Tracker-CPP&theme=nord&cache_seconds=86400&bg_color=0f172a&border_color=0ea5e9&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=Expense-Tracker-CPP&theme=nord&cache_seconds=1800&bg_color=0f172a&border_color=0ea5e9&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee" width="100%"/>
 
 
 *A console-based personal Expense Tracker in C++ — adds, views, stores, and calculates daily expenses via file handling.*
@@ -180,8 +180,8 @@ Internships & fresher Software Engineering roles
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=huzaifa2612&show_icons=true&theme=nord&cache_seconds=86400&border_color=0ea5e9&title_color=0ea5e9&text_color=ffffff&icon_color=22d3ee" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=huzaifa2612&layout=compact&theme=nord&cache_seconds=86400&border_color=0ea5e9&title_color=0ea5e9&text_color=ffffff" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=huzaifa2612&show_icons=true&theme=nord&cache_seconds=1800&border_color=0ea5e9&title_color=0ea5e9&text_color=ffffff&icon_color=22d3ee" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=huzaifa2612&layout=compact&theme=nord&cache_seconds=1800&border_color=0ea5e9&title_color=0ea5e9&text_color=ffffff" />
 
 <br/>
 
