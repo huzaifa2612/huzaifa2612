@@ -46,7 +46,7 @@ const muhammadHuzaifa = {
 > A console-based Human Resource and Payroll Management System developed in C++ showcasing core OOP concepts, file handling, and exception management.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa2612&repo=HR-Management-System-CPP&theme=nord&cache_seconds=86400&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=HR-Management-System-CPP&theme=nord&cache_seconds=86400&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" />
 </div>
 
 | Layer | Technology |
@@ -63,7 +63,7 @@ const muhammadHuzaifa = {
 > A console-based Personal Expense Tracker developed in C++ using file handling to efficiently add, view, and calculate daily expenses.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa2612&repo=Expense-Tracker-CPP&theme=nord&cache_seconds=86400&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=Expense-Tracker-CPP&theme=nord&cache_seconds=86400&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" />
 </div>
 
 | Layer | Technology |
@@ -81,9 +81,17 @@ const muhammadHuzaifa = {
 
 <img src="https://skillicons.dev/icons?i=cpp,py" />
 
-**AI / Databases**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,chatgpt,gemini" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+**AI Tools**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-7dd3fc?style=for-the-badge&logo=openai&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-7dd3fc?style=for-the-badge&logoColor=black)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-7dd3fc?style=for-the-badge&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7dd3fc?style=for-the-badge&logoColor=black)
+![Generative AI](https://img.shields.io/badge/Generative%20AI%20Tools-7dd3fc?style=for-the-badge&logoColor=black)
 
 **Dev Tools**
 
@@ -95,8 +103,8 @@ const muhammadHuzaifa = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa2612&show_icons=true&theme=nord&cache_seconds=86400&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa2612&layout=compact&theme=nord&cache_seconds=86400&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=huzaifa2612&show_icons=true&theme=nord&cache_seconds=86400&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=huzaifa2612&layout=compact&theme=nord&cache_seconds=86400&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" />
 
 <br/>
 
