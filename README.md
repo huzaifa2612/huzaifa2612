@@ -18,23 +18,53 @@
 
 ## 👋 About Me
 
-I am a Computer Science student building practical software projects while developing my skills in Python, backend development, and AI Engineering. I enjoy turning programming concepts into working applications and am currently looking for internship opportunities where I can learn, contribute, and grow.
+<div align="center">
 
-| | |
-|---|---|
-| 🎓 **Background** | Computer Science student |
-| 🛠️ **Building** | Console-based systems in C++ applying OOP and file handling |
-| 📚 **Currently Learning** | Python, Backend Development, AI Engineering |
-| 🎯 **Target Roles** | Software Engineering · Backend Development · AI Engineering (Internships) |
-| 🤝 **Open To** | Internships and fresher software engineering roles |
+<h3>Computer Science student building practical software while growing into a backend & AI engineer.</h3>
+<p>Turning programming concepts into working applications — currently seeking internship opportunities to learn, contribute, and grow.</p>
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Background
+Computer Science student
+
+### 🛠️ Currently Building
+Console-based software systems in C++, applying OOP and file handling
+
+### 🎯 Target Roles
+Software Engineering · Backend Development · AI Engineering *(Internships)*
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Currently Learning
+Python · Backend Development · AI Engineering
+
+### 🤝 Open To
+Internships & fresher Software Engineering roles
+
+### 📌 Status
+![Available for Internship](https://img.shields.io/badge/Status-Available%20for%20Internship-22d3ee?style=flat-square&labelColor=0f172a)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🧠 Currently Learning
 
-![Python](https://img.shields.io/badge/Python-0ea5e9?style=flat-square&logoColor=white)
-![Backend Development](https://img.shields.io/badge/Backend%20Development-0ea5e9?style=flat-square&logoColor=white)
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-0ea5e9?style=flat-square&logoColor=white)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee)
+![Backend Development](https://img.shields.io/badge/Backend%20Development-0ea5e9?style=for-the-badge&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-22d3ee?style=for-the-badge&logoColor=0f172a)
+
+</div>
 
 <br/>
 
@@ -42,53 +72,84 @@ I am a Computer Science student building practical software projects while devel
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,py" />
+<div align="center">
+<img height="60" src="https://skillicons.dev/icons?i=cpp" alt="C++" />&nbsp;&nbsp;
+<img height="60" src="https://skillicons.dev/icons?i=py" alt="Python" />
+</div>
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<div align="center">
+<img height="60" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</div>
 
 **Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
+<div align="center">
+<img height="60" src="https://skillicons.dev/icons?i=git" alt="Git" />&nbsp;&nbsp;
+<img height="60" src="https://skillicons.dev/icons?i=github" alt="GitHub" />&nbsp;&nbsp;
+<img height="60" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />&nbsp;&nbsp;
+<img height="60" src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+</div>
 
 **Programming Concepts**
 
-![OOP](https://img.shields.io/badge/OOP-0f172a?style=flat-square&logoColor=white)
-![File Handling](https://img.shields.io/badge/File%20Handling-0f172a?style=flat-square&logoColor=white)
-![Exception Handling](https://img.shields.io/badge/Exception%20Handling-0f172a?style=flat-square&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Basic%20Data%20Structures-0f172a?style=flat-square&logoColor=white)
+<div align="center">
+
+![OOP](https://img.shields.io/badge/OOP-0f172a?style=for-the-badge&labelColor=0f172a&color=0ea5e9)
+![File Handling](https://img.shields.io/badge/File%20Handling-0f172a?style=for-the-badge&labelColor=0f172a&color=0ea5e9)
+![Exception Handling](https://img.shields.io/badge/Exception%20Handling-0f172a?style=for-the-badge&labelColor=0f172a&color=0ea5e9)
+![Data Structures](https://img.shields.io/badge/Basic%20Data%20Structures-0f172a?style=for-the-badge&labelColor=0f172a&color=0ea5e9)
+
+</div>
 
 **AI Productivity Tools**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-22d3ee?style=flat-square&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude-22d3ee?style=flat-square&logoColor=black)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-22d3ee?style=flat-square&logoColor=black)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-22d3ee?style=flat-square&logoColor=black)
+<div align="center">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0f172a?style=for-the-badge&logo=openai&logoColor=22d3ee&labelColor=0f172a&color=22d3ee)
+![Claude](https://img.shields.io/badge/Claude-0f172a?style=for-the-badge&logoColor=22d3ee&labelColor=0f172a&color=22d3ee)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-0f172a?style=for-the-badge&logoColor=22d3ee&labelColor=0f172a&color=22d3ee)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0f172a?style=for-the-badge&logoColor=22d3ee&labelColor=0f172a&color=22d3ee)
+
+</div>
 
 <br/>
 
 ## 🚀 Featured Projects
 
-**HR Management System**
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
-A console-based Human Resource and Payroll Management System developed in C++, demonstrating employee record management, payroll processing, and exception-safe file storage.
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=HR-Management-System-CPP&theme=nord&cache_seconds=86400&bg_color=0f172a&border_color=0ea5e9&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee" width="100%"/>
 
-| | |
-|---|---|
-| **Technologies** | C++, File I/O |
-| **Concepts** | OOP, File Handling, Exception Handling |
-| **Repository** | [huzaifa2612/HR-Management-System-CPP](https://github.com/huzaifa2612/HR-Management-System-CPP) |
+*A console-based HR & Payroll Management System in C++ — employee records, payroll processing, and exception-safe file storage.*
 
-**Expense Tracker**
+![C++](https://img.shields.io/badge/C++-0f172a?style=flat-square&logo=cplusplus&logoColor=22d3ee)
+![File I/O](https://img.shields.io/badge/File%20I%2FO-0f172a?style=flat-square&color=0ea5e9)
+![OOP](https://img.shields.io/badge/OOP-0f172a?style=flat-square&color=0ea5e9)
+![Exception Handling](https://img.shields.io/badge/Exception%20Handling-0f172a?style=flat-square&color=0ea5e9)
 
-A console-based personal expense tracker developed in C++ that adds, views, stores, and calculates daily expenses using file handling and data aggregation.
+[![View Repository](https://img.shields.io/badge/View%20Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifa2612/HR-Management-System-CPP)
 
-| | |
-|---|---|
-| **Technologies** | C++, File I/O |
-| **Concepts** | File Handling, Data Aggregation |
-| **Repository** | [huzaifa2612/Expense-Tracker-CPP](https://github.com/huzaifa2612/Expense-Tracker-CPP) |
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=Expense-Tracker-CPP&theme=nord&cache_seconds=86400&bg_color=0f172a&border_color=0ea5e9&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee" width="100%"/>
+
+*A console-based personal Expense Tracker in C++ — adds, views, stores, and calculates daily expenses via file handling.*
+
+![C++](https://img.shields.io/badge/C++-0f172a?style=flat-square&logo=cplusplus&logoColor=22d3ee)
+![File I/O](https://img.shields.io/badge/File%20I%2FO-0f172a?style=flat-square&color=0ea5e9)
+![File Handling](https://img.shields.io/badge/File%20Handling-0f172a?style=flat-square&color=0ea5e9)
+![Data Aggregation](https://img.shields.io/badge/Data%20Aggregation-0f172a?style=flat-square&color=0ea5e9)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifa2612/Expense-Tracker-CPP)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
