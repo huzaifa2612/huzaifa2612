@@ -119,6 +119,20 @@ Internships & fresher Software Engineering roles
 <tr>
 <td width="50%" valign="top" align="center">
 
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=Jarvis-AI-Voice-Assistant&theme=nord&cache_seconds=1800&bg_color=0f172a&border_color=0ea5e9&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee" width="100%"/>
+
+*A Python-based AI voice assistant with speech recognition, text-to-speech, web automation, live news, music playback, and Gemini AI integration.*
+
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=22d3ee)
+![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-0f172a?style=flat-square&color=0ea5e9)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-0f172a?style=flat-square&color=0ea5e9)
+![Automation](https://img.shields.io/badge/Automation-0f172a?style=flat-square&color=0ea5e9)
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifa2612/Jarvis-AI-Voice-Assistant)
+
+</td>
+<td width="50%" valign="top" align="center">
+
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=CareerTrack&theme=nord&cache_seconds=1800&bg_color=0f172a&border_color=0ea5e9&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee" width="100%"/>
 
 *A Python CLI application for tracking job applications and matching resume skills with job descriptions.*
@@ -130,6 +144,8 @@ Internships & fresher Software Engineering roles
 [![View Repository](https://img.shields.io/badge/View%20Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifa2612/CareerTrack)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top" align="center">
 
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=HR-Management-System-CPP&theme=nord&cache_seconds=1800&bg_color=0f172a&border_color=0ea5e9&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee" width="100%"/>
@@ -144,12 +160,9 @@ Internships & fresher Software Engineering roles
 [![View Repository](https://img.shields.io/badge/View%20Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifa2612/HR-Management-System-CPP)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top" align="center">
 
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=huzaifa2612&repo=Expense-Tracker-CPP&theme=nord&cache_seconds=1800&bg_color=0f172a&border_color=0ea5e9&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee" width="100%"/>
-
 
 *A console-based personal Expense Tracker in C++ — adds, views, stores, and calculates daily expenses via file handling.*
 
@@ -161,7 +174,6 @@ Internships & fresher Software Engineering roles
 [![View Repository](https://img.shields.io/badge/View%20Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifa2612/Expense-Tracker-CPP)
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
